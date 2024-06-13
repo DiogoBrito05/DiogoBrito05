@@ -17,6 +17,6 @@ Olá! Sou desenvolvedor backend com foco em Java/Spring Boot. Atualmente, estou 
 ![Mysql](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
 ![Node.JS](https://img.shields.io/badge/Node.JS-000?style=flat&logo=nodedotjs)
-![Java](https://img.shields.io/badge/Java-000?style=flat&logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   
 <br>
