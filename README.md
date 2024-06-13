@@ -1,8 +1,10 @@
-object Diogo {
- public string Name {get;} = "Diogo Brito";
- public string Acknowledgements {get;} = "Beckeend";
-
- public string PrimarySkills
+public class Diogo
+{
+    public string Nome { get; } = "Diogo Brito";
+    public string Agradecimentos { get; } = "Backend";
+    public string PrimarySkills { get; } = "Java, Spring Boot, JavaScript, Python";
+    public string Frameworks {get} = "Spring Boot, Node.js";
+}
 
 <!---
 DiogoBrito05/DiogoBrito05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
