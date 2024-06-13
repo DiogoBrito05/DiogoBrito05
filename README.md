@@ -1,8 +1,10 @@
 public class Diogo
 {
-    public string Nome { get; } = "Diogo Brito";
+    public string Nome { get; } = "Diogo Brito";\n
     public string Agradecimentos { get; } = "Backend";
+    
     public string PrimarySkills { get; } = "Java, Spring Boot, JavaScript, Python";
+    
     public string Frameworks {get} = "Spring Boot, Node.js";
 }
 
