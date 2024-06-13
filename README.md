@@ -7,8 +7,7 @@
     public string Frameworks {get} = "Spring Boot, Node.js";
     }
 
-## Olá! Sou desenvolvedor backend com foco em Java/Spring Boot. Atualmente, estou expandindo minhas habilidades e aprendendo JavaScript e Python. Tenho um grande interesse em redes neurais e segurança cibernética. Adoro explorar novas tecnologias e aprimorar minhas 
-## habilidades para resolver problemas complexos de forma eficiente e segura.
+## Olá! Sou desenvolvedor backend com foco em Java/Spring Boot. Atualmente, estou expandindo minhas habilidades e aprendendo JavaScript e Python. Tenho um grande interesse em redes neurais e segurança cibernética. Adoro explorar novas tecnologias e aprimorar minhas habilidades para resolver problemas complexos de forma eficiente e segura.
 
 <br>
 
